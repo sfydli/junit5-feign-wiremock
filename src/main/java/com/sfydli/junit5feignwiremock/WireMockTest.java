@@ -1,3 +1,5 @@
+package com.sfydli.junit5feignwiremock;
+
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration;
 import org.springframework.cloud.openfeign.EnableFeignClients;

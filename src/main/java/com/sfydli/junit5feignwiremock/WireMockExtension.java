@@ -1,3 +1,5 @@
+package com.sfydli.junit5feignwiremock;
+
 import com.github.tomakehurst.wiremock.WireMockServer;
 import com.github.tomakehurst.wiremock.client.WireMock;
 import org.junit.jupiter.api.extension.AfterAllCallback;

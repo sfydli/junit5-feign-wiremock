@@ -57,7 +57,7 @@
         <repository>
             <id>github</id>
             <name>Junit5 wiremock extension special for feign clients</name>
-            <url>https://github.com/sfydli/junit5-feign-wiremock</url>
+            <url>https://maven.pkg.github.com/sfydli/junit5-feign-wiremock</url>
         </repository>
     </distributionManagement>
 
